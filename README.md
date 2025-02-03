@@ -44,6 +44,7 @@ Feel free to connect with me @Gokul221! Stay tuned, there's much more to come :D
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-gray?style=flat&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-34A853?style=flat&logo=express&logoColor=white)
 ![Redux.js](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
